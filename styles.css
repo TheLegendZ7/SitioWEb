@@ -1,0 +1,55 @@
+body {
+  font-family:  Times New Roman;
+  margin: 0;
+  padding: 0;
+  background-color: #e5f7e7; /* Color verde suave */
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.logo img {
+  max-width: 500px; /* Ajusta el tamaño según sea necesario */
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  font-family: Times New Roman;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 0 10px;
+  cursor: pointer;
+  background-color: #188001;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+.container ul {
+  text-align: justify;
+}
+body {
+  font-family: Times New Roman; /* Cambio de tipo de letra */
+  background-color: #1e5945; /* Cambio de color de fondo */
+  color: white;
+}
+
+
+.logo img {
+  border: 2px solid black; /* Agregar borde negro al logo */
+}
+
